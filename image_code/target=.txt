@@ -1,0 +1,2 @@
+_blank ប្រើសម្រាប់ដូរពីtabទៅtabមួយផ្សែងទៀត(ពេលចុចlink webslite)
+_self ប្រើសម្រាប់ចូលតែtabមួយតែប៉ុណ្តោះនៅក្នុងtab​ តែមួយ(ពេលចុចlink webslite)
